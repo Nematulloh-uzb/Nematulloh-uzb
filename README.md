@@ -11,6 +11,6 @@
 ---
 
 ### 🔗 Let's connect
-- 📬 [Telegram](https://t.me/NematullohM) &nbsp; 📸 [[Instagram](https://www.instagram.com/mansurvv710/?hl=ru) &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 📝 [Teletype blog](https://teletype.in/@turgunovdostonbek) &nbsp; 🌐 [Portfolio](https://portfolio1398.vercel.app/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard][https://www.codewars.com/users/Nematulloh)
+- 📬 [Telegram](https://t.me/NematullohM) &nbsp; 📸 [[Instagram](https://www.instagram.com/mansurvv710/?hl=ru) &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 📝 [Teletype blog](https://teletype.in/@turgunovdostonbek) &nbsp; 🌐 [Portfolio](https://portfolio1398.vercel.app/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/users/Nematulloh)
 
 ---
