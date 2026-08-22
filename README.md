@@ -12,10 +12,10 @@
 
 <br/><br/>
 
-<!-- HIGH-TECH SYSTEM COUNTER -->
+<!-- HIGH-TECH SYSTEM COUNTER (REAL-TIME VIEWS) -->
 <p align="center">
   <a href="https://github.com/Nematulloh-uzb">
-    <img src="https://profile-counter.glitch.me/Nematulloh-uzb/badge.svg" alt="Cyber Counter" />
+    <img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&style=for-the-badge&color=00f2fe&label=SYSTEM+VIEWS+%F0%9F%91%81%EF%B8%8F" alt="Cyber Counter" />
   </a>
 </p>
 
@@ -31,7 +31,6 @@
 
 ---
 
-### 📡 CYBERNETIC SYSTEM DIAGNOSTIC
 <!-- SYSTEM DIAGNOSTIC HUD CARD -->
 <div align="center">
 
@@ -54,5 +53,113 @@
     </td>
   </tr>
 </table>
+
+</div>
+
+<br/>
+
+---
+
+## ⚙️ HARDWARE & SOFTWARE ARSENAL
+
+<div align="center">
+
+<br/>
+
+<!-- 3D TECH ICONS -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux,git,github,vscode,figma&perline=7" />
+</a>
+
+<br/><br/>
+
+<!-- HUD PROGRESS METRICS -->
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=CORE_SYSTEM_METRICS&align=center&titleColor=00F2FE&lineColor=7000FF&backgroundColor=0D1117&width=750&border=true&line_1=React_Framework,98,Advanced_State_And_Architecture&line_2=TypeScript,92,Type_Safety_And_Interfaces&line_3=Tailwind_CSS,96,Ultra_Fast_Responsive_Styling&line_4=Next_JS,88,SSR_App_Router_Routing" width="100%" />
+
+</div>
+
+---
+
+## ⚡ DEPLOYED CORE PROJECTS
+
+<div align="center">
+
+<table border="1" borderColor="#00f2fe">
+  <tr>
+    <td width="50%" bgcolor="#0d1117" align="center">
+      <br/>
+      <h3 style="color:#00f2fe">🛒 UZUM MARKET CLONE</h3>
+      <p><b>[SYSTEM TYPE: E-COMMERCE ENGINE]</b></p>
+      <p>1:1 replica of Uzum Market interface. Features real-time cart state synchronization, dynamic modals, and client-side real-time filtering.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=00f2fe" />
+      <img src="https://img.shields.io/badge/TAILWIND-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00f2fe" />
+      <br/><br/>
+    </td>
+    <td width="50%" bgcolor="#0d1117" align="center">
+      <br/>
+      <h3 style="color:#00f2fe">🏎️ LUXURY AUTOMOTIVE PLATFORM</h3>
+      <p><b>[SYSTEM TYPE: HIGH-END SHOWCASE]</b></p>
+      <p>Cyberpunk-styled vehicle configurator page featuring glassmorphism elements, interactive UI animations, and dark mode design.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge&logo=typescript&logoColor=00f2fe" />
+      <img src="https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=00f2fe" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 TELEMETRY & ANALYTICS
+
+<br/>
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nematulloh-uzb&show_icons=true&theme=cyberpunk&hide_border=false&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&border_color=7000FF" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nematulloh-uzb&layout=compact&theme=cyberpunk&hide_border=false&bg_color=0D1117&title_color=00F2FE&text_color=FFFFFF&border_color=7000FF" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- STREAK METRIC -->
+<img src="https://streak-stats.demolab.com?user=Nematulloh-uzb&theme=cyberpunk&hide_border=false&background=0D1117&border=7000FF&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="100%" />
+
+</div>
+
+---
+
+## 🔒 TRANSMISSION CHANNELS
+
+<div align="center">
+
+<a href="https://github.com/Nematulloh-uzb" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE&border=00F2FE" />
+</a>
+<a href="https://t.me/NematullohM" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=00F2FE&border=00F2FE" />
+</a>
+<a href="https://www.instagram.com/mansurwv710" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00F2FE&border=00F2FE" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- CYBER FOOTER WAVE -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7000ff,100:00f2fe&height=120&section=footer" width="100%" />
 
 </div>
