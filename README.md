@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&style=for-the-badge&color=00f2fe&label=VIEWS+%F0%9F%91%81%EF%B8%8F" />
   <img src="https://img.shields.io/badge/ROLE-FULL--STACK_DEVELOPER-7000ff?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-MARG%27ILON_KO%27CHA_202--UY%2C_NAMANGAN_SHAXAR%2C_NAMANGAN_UZB-00f2fe?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/LOCATION-202--HOUSE_MARGILON_STREET%2C_NAMANGAN_CITY%2C_NAMANGAN_UZB-00f2fe?style=for-the-badge&logo=googlemaps&logoColor=black" />
 </p>
 
 </div>
