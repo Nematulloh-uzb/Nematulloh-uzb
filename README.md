@@ -31,56 +31,16 @@
 
 ---
 
-<!-- STYLISH 3D PROJECT CARDS -->
-<div align="center">
-
-<table border="1" borderColor="#00F2FE" width="100%">
-  <tr>
-    <td width="50%" bgcolor="#0D1117" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/🛒_UZUM_MARKET_CLONE-00F2FE?style=for-the-badge&logoColor=black" />
-      <br/><br/>
-      <code>React.js</code> • <code>Tailwind CSS</code> • <code>State Management</code>
-      <br/><br/>
-    </td>
-    <td width="50%" bgcolor="#0D1117" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/🏎️_LUXURY_AUTOMOTIVE-7000FF?style=for-the-badge&logoColor=white" />
-      <br/><br/>
-      <code>TypeScript</code> • <code>Next.js</code> • <code>Glassmorphism UI</code>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- HIGH-TECH TELEMETRY -->
-<div align="center">
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nematulloh-uzb&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&border_color=7000FF" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nematulloh-uzb&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F2FE&text_color=FFFFFF&border_color=7000FF" width="48%" />
-</p>
-
-</div>
-
----
-
 <!-- FOOTER CONNECT -->
 <div align="center">
 
 <a href="https://github.com/Nematulloh-uzb" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE&border=00F2FE" />
 </a>
-<a href="https://t.me/Nematulloh710" target="_blank">
+<a href="https://t.me/NematullohM" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=00F2FE&border=00F2FE" />
 </a>
-<a href="https://www.instagram.com/mansurvv710" target="_blank">
+<a href="https://www.instagram.com/mansurwv710" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00F2FE&border=00F2FE" />
 </a>
 
