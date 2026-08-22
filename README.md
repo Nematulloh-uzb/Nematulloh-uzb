@@ -1,84 +1,111 @@
 ````markdown
 <!-- ========================================================= -->
 <!--                 NE'MATULLOH MANSUROV                     -->
-<!--              ULTRA MODERN GITHUB PROFILE                 -->
+<!--             PREMIUM FUTURISTIC PROFILE                   -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- 3D CYBER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=NE'MATULLOH%20MANSUROV&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:050816,25:00F2FE,55:081A3A,80:7000FF,100:050816&desc=FRONTEND%20ENGINEER%20%E2%80%A2%20UI%2FUX%20ENGINEER%20%E2%80%A2%20WEB%20ARCHITECT&descSize=16&descColor=00F2FE&descAlignY=61" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                     HERO SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=NE'MATULLOH%20MANSUROV&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%E2%80%A2%20UI%2FUX%20ENGINEER%20%E2%80%A2%20WEB%20ARCHITECT&descSize=15&descColor=00F5FF&descAlignY=60&color=0:020617,25:071A2B,55:003B4D,75:4C00FF,100:020617"
+width="100%"
+/>
 
 <br/>
 
-<!-- PROFILE VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&label=PROFILE%20VISITORS&color=00f2fe&style=for-the-badge" alt="Profile Views"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   PROFILE VIEWS                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img
+src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&label=VISITORS&color=00F5FF&style=for-the-badge"
+alt="Profile Views"
+/>
 
 <br/><br/>
 
-<!-- TYPING HUD -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2200&pause=700&color=00F2FE&center=true&vCenter=true&width=850&lines=%3E_SYSTEM%20ONLINE...;%3E_BUILDING%20NEXT-GEN%20WEB%20EXPERIENCES;%3E_REACT%20%7C%20NEXT.JS%20%7C%20TYPESCRIPT;%3E_UI%2FUX%20MEETS%20HIGH-PERFORMANCE%20ENGINEERING;%3E_CREATING%20PIXEL-PERFECT%20INTERFACES..." alt="Typing SVG"/>
-</a>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   LIVE TYPING HUD                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+DEVELOPER+CORE...;%3E+BUILDING+HIGH-PERFORMANCE+WEB+SYSTEMS;%3E+REACT+%7C+NEXT.JS+%7C+TYPESCRIPT+%7C+TAILWIND;%3E+DESIGNING+PIXEL-PERFECT+INTERFACES;%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9A%A1"
+alt="Typing animation"
+/>
 
 <br/><br/>
 
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=statuspage&logoColor=000000"/>
-<img src="https://img.shields.io/badge/FOCUS-FRONTEND-00f2fe?style=for-the-badge&logo=react&logoColor=000000"/>
-<img src="https://img.shields.io/badge/LOCATION-NAMANGAN%2C%20UZBEKISTAN-7000ff?style=for-the-badge&logo=googlemaps&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-PROJECTS-ff00cc?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                     STATUS HUD                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/%E2%97%89%20STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1%20FOCUS-FRONTEND-00F5FF?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D%20BASE-NAMANGAN%2C%20UZBEKISTAN-7C3AED?style=for-the-badge&labelColor=050816"/>
 
 <br/><br/>
 
 <!-- SOCIAL -->
+
 <a href="https://github.com/Nematulloh-uzb">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
-</a>
-
-<a href="#">
+<a href="https://t.me/NematullohM">
 <img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
 </a>
+
+<a href="https://www.instagram.com/mansurv710/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
+</a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-# 🧬 SYSTEM PROFILE
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                     INTRO                              -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-```text
-╔══════════════════════════════════════════════╗
-║            NEURAL PROFILE CORE              ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  NAME       :: Ne'matulloh Mansurov         ║
-║  ROLE       :: Frontend Engineer             ║
-║  SPECIALTY  :: UI/UX + Web Architecture     ║
-║  LOCATION   :: Namangan, Uzbekistan 🇺🇿       ║
-║  CORE       :: React / Next.js / TypeScript  ║
-║  STYLE      :: Clean • Modern • Scalable     ║
-║  STATUS     :: ONLINE                        ║
-║                                              ║
-║  MISSION:                                    ║
-║  Build interfaces that look futuristic,      ║
-║  feel effortless and perform flawlessly.     ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-````
+# 👋 Hey, I'm Ne'matulloh
+
+I'm a **Frontend Engineer** focused on creating modern, scalable and high-performance web experiences.
+
+I enjoy turning complex ideas into interfaces that are:
+
+**Fast. Clean. Interactive. Scalable.**
+
+My main ecosystem is built around:
+
+- ⚛️ React
+- ▲ Next.js
+- 🔷 TypeScript
+- 🎨 Tailwind CSS
+- 🟢 Node.js
+- 🗄️ MongoDB
+
+I care about the details that users notice:
+
+**performance + architecture + visual quality + UX.**
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nematulloh-uzb&bg_color=050816&color=00f2fe&line=7000ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="330"
+/>
 
 </td>
 </tr>
@@ -86,19 +113,85 @@
 
 ---
 
-# ⚡ TECH STACK
+# 🧠 ENGINEERING DNA
 
 <div align="center">
 
-### FRONTEND
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux,zustand" />
+<td align="center" width="25%">
 
-### BACKEND & DATABASE
+### ⚛️
+## FRONTEND
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
+React  
+Next.js  
+TypeScript  
+Modern JS
 
-### TOOLS
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+## DESIGN
+
+UI/UX  
+Responsive  
+Animations  
+Design Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+## PERFORMANCE
+
+Optimization  
+Lazy Loading  
+Caching  
+Clean Rendering
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+## ARCHITECTURE
+
+Scalable Apps  
+Reusable UI  
+Type Safety  
+Clean Code
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ TECHNOLOGY MATRIX
+
+<div align="center">
+
+### CORE
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+
+<br/><br/>
+
+### STATE & DATA
+
+<img src="https://skillicons.dev/icons?i=redux,zustand,axios,nodejs,express,mongodb,postgres" />
+
+<br/><br/>
+
+### TOOLING
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,figma,postman" />
 
@@ -106,71 +199,110 @@
 
 ---
 
-# 🧠 ENGINEERING PHILOSOPHY
+# 🚀 SELECTED PROJECTS
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="50%">
 
-### 🎨 UI
+## 🍔 TAOMUZ
 
-Pixel-perfect
-Responsive
-Accessible
-Interactive
+### Food Delivery Platform
 
-</td>
+A modern food delivery ecosystem with customer and admin interfaces.
 
-<td align="center" width="25%">
+**Stack**
 
-### ⚡ PERFORMANCE
+`React` `TypeScript` `Node.js` `MongoDB`
 
-Fast loading
-Optimized rendering
-Efficient state
-Clean architecture
+**Features**
+
+Authentication · Cart · Checkout · Orders · Admin Panel
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%">
 
-### 🧩 ARCHITECTURE
+## 🏘️ MAHALLA SERVICE FINDER
 
-Reusable components
-Scalable structure
-Type safety
-Maintainability
+### Local Services Platform
 
-</td>
+A platform for discovering local services and providers.
 
-<td align="center" width="25%">
+**Stack**
 
-### 🚀 EXPERIENCE
+`React` `TypeScript` `REST API`
 
-Modern UX
-Micro-interactions
-Smooth animations
-Futuristic design
+**Features**
+
+Search · Filters · Authentication · Responsive UI
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%">
+
+## 🏎️ LUXURY CAR EXPERIENCE
+
+### Premium Automotive UI
+
+A cinematic automotive interface focused on premium visual design.
+
+**Stack**
+
+`React` `Tailwind` `Framer Motion`
+
+**Focus**
+
+Animations · Visual hierarchy · Responsive UX
+
+</td>
+
+<td width="50%">
+
+## 🛒 E-COMMERCE SYSTEM
+
+### Modern Shopping Experience
+
+A scalable shopping interface with reusable architecture.
+
+**Stack**
+
+`React` `Context API` `TypeScript`
+
+**Features**
+
+Products · Cart · State Management · Checkout
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
 
 ---
 
-# 📊 GITHUB PERFORMANCE
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nematulloh-uzb&show_icons=true&theme=transparent&hide_border=true&title_color=00f2fe&icon_color=7000ff&text_color=ffffff&bg_color=050816&rank_icon=github" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=Nematulloh-uzb&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=FFFFFF&icon_color=7C3AED&rank_icon=github"
+height="175"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nematulloh-uzb&layout=compact&theme=transparent&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=050816" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nematulloh-uzb&layout=compact&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=FFFFFF"
+height="175"
+/>
 
 </div>
 
@@ -178,223 +310,138 @@ Futuristic design
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nematulloh-uzb&theme=transparent&hide_border=true&ring=00f2fe&fire=7000ff&currStreakLabel=00f2fe&sideLabels=ffffff&dates=999999&background=050816" width="70%"/>
+<img
+src="https://streak-stats.demolab.com?user=Nematulloh-uzb&hide_border=true&background=00000000&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=777777"
+width="70%"
+/>
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION MATRIX
+# 📡 ACTIVITY STREAM
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nematulloh-uzb&bg_color=050816&color=00f2fe&line=7000ff&point=ffffff&area_color=7000ff&area=true&hide_border=true&custom_title=NE'MATULLOH%20CONTRIBUTION%20MATRIX" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Nematulloh-uzb&bg_color=050816&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+width="100%"
+/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nematulloh-uzb/Nematulloh-uzb/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🍔 TaomUz
-
-**Modern Food Delivery Platform**
-
-React + TypeScript + Node.js + MongoDB
-
-* Authentication
-* Cart system
-* Checkout flow
-* Order tracking
-* Admin dashboard
-* Responsive UI
-
-</td>
-
-<td width="50%">
-
-### 🏘️ Mahalla Service Finder
-
-**Local Service Discovery Platform**
-
-React + TypeScript + REST API
-
-* Search
-* Filters
-* Service discovery
-* User authentication
-* Responsive interface
-* Production-ready architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🏎️ Luxury Car Brand
-
-**Premium Automotive Experience**
-
-React + Tailwind CSS + Framer Motion
-
-* Cinematic UI
-* Interactive sections
-* Responsive design
-* Motion system
-* Premium visual hierarchy
-
-</td>
-
-<td width="50%">
-
-### 🛒 E-Commerce System
-
-**Modern Shopping Experience**
-
-React + Context API + TypeScript
-
-* Product management
-* Cart state
-* Checkout
-* Reusable components
-* Scalable state architecture
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🛰️ CURRENTLY BUILDING
+# 🎯 CURRENT MISSION
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [01] HIGH-PERFORMANCE REACT APPLICATIONS                  │
-│                                                             │
-│  [02] MODERN UI/UX SYSTEMS                                  │
-│                                                             │
-│  [03] SCALABLE FULL-STACK PRODUCTS                          │
-│                                                             │
-│  [04] NEXT.JS + TYPESCRIPT ARCHITECTURES                    │
-│                                                             │
-│  [05] FUTURISTIC WEB EXPERIENCES                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+┌──────────────────────────────────────────────────────────────┐
+│                    DEVELOPMENT MISSION                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [✓] Master modern React architecture                        │
+│                                                              │
+│  [✓] Build scalable TypeScript applications                  │
+│                                                              │
+│  [✓] Create production-ready UI systems                      │
+│                                                              │
+│  [→] Deepen Next.js ecosystem                                │
+│                                                              │
+│  [→] Build high-performance full-stack products              │
+│                                                              │
+│  [→] Turn ideas into real digital products                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+````
 
 ---
 
-# 🔥 DEVELOPMENT SIGNAL
+# 💻 DEVELOPMENT TERMINAL
 
 <div align="center">
 
 ```text
-██████████████████████████████████████████████████████ 100%
-
-SYSTEM            STATUS
-────────────────────────────────────────────────────────
-Frontend          ████████████████████████████████████ ONLINE
-React             ████████████████████████████████████ ONLINE
-TypeScript        ███████████████████████████████████░ ACTIVE
-UI/UX             ████████████████████████████████████ ONLINE
-Next.js           ██████████████████████████████████░░ ACTIVE
-Architecture      ███████████████████████████████████░ ACTIVE
+╭────────────────────────────────────────────────────╮
+│  NE'MATULLOH@DEV-MACHINE ~ %                        │
+│                                                    │
+│  $ whoami                                          │
+│  frontend-engineer                                 │
+│                                                    │
+│  $ stack                                            │
+│  React / Next.js / TypeScript / Tailwind           │
+│                                                    │
+│  $ philosophy                                       │
+│  Simple architecture.                              │
+│  Powerful interfaces.                              │
+│  Exceptional UX.                                   │
+│                                                    │
+│  $ status                                           │
+│  ● ONLINE                                           │
+╰────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 ---
 
-# 💡 WHAT I BUILD
+# 🌌 CONTRIBUTION UNIVERSE
 
 <div align="center">
 
-| DOMAIN               | FOCUS                                |
-| -------------------- | ------------------------------------ |
-| 🖥️ Web Applications | High-performance React systems       |
-| 🎨 UI/UX             | Modern, clean and premium interfaces |
-| ⚡ Performance        | Fast rendering and optimized UX      |
-| 🧩 Architecture      | Maintainable scalable codebases      |
-| 📱 Responsive        | Mobile-first adaptive layouts        |
-| 🚀 Products          | Production-oriented web platforms    |
+<img
+src="https://raw.githubusercontent.com/Nematulloh-uzb/Nematulloh-uzb/output/github-contribution-grid-snake-dark.svg"
+alt="Contribution Snake"
+/>
 
 </div>
 
 ---
 
-# 🌐 PROFILE TERMINAL
-
-```bash
-$ whoami
-
-ne'matulloh-mansurov
-
-$ role
-
-Frontend Engineer / UI-UX Engineer
-
-$ stack
-
-React
-Next.js
-TypeScript
-Tailwind CSS
-Node.js
-MongoDB
-
-$ mission
-
-Build futuristic digital experiences
-without sacrificing performance.
-```
-
----
-
-# 📡 CONNECT
+# 🔥 WHY BUILD WITH ME?
 
 <div align="center">
 
-### LET'S BUILD SOMETHING EXCEPTIONAL ⚡
+| ⚡  | APPROACH                                                    |
+| -- | ----------------------------------------------------------- |
+| 🎯 | **User-first** — interfaces designed around real usage      |
+| 🧠 | **Architecture-first** — scalable before complicated        |
+| ⚡  | **Performance-first** — speed matters                       |
+| 🎨 | **Design-first** — visual quality is part of engineering    |
+| 🧩 | **Component-first** — reusable systems over duplicated code |
+| 🚀 | **Production-first** — built to actually ship               |
+
+</div>
+
+---
+
+# 🌐 LET'S CONNECT
+
+<div align="center">
+
+### BUILD SOMETHING GREAT. 🚀
+
+<br/>
 
 <a href="https://github.com/Nematulloh-uzb">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-00f2fe?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7000ff?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+<a href="https://t.me/NematullohM">
+<img src="https://img.shields.io/badge/TELEGRAM-00F5FF?style=for-the-badge&logo=telegram&logoColor=050816"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/TELEGRAM-CONTACT-00cfff?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
+<a href="https://www.instagram.com/mansurv710/">
+<img src="https://img.shields.io/badge/INSTAGRAM-FF2D75?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050816,30:7000FF,70:00F2FE,100:050816&animation=twinkling"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:020617,30:4C00FF,65:003B4D,100:020617"
+width="100%"
+/>
+
+### `SYSTEM STATUS: ONLINE ⚡`
 
 </div>
 ```
