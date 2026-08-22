@@ -1,44 +1,36 @@
-# 👋 Hi, I'm Ne'matulloh
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+%7C+TypeScript;Building+Modern+Web+Experiences;Always+Learning+%26+Improving" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Ne'matulloh%20Mansurov&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Next.js+Enthusiast+%E2%9A%A1;Building+Modern+%26+Responsive+UI%2FUX+%F0%9F%8E%A8;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS+%F0%9F%91%81%EF%B8%8F" alt="Views" />
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+### 💫 About Me
 
-### 🚀 Frontend Developer
-
-I build **modern, responsive and production-ready web applications**  
-with a strong focus on **React, TypeScript and clean UI/UX**.
-
-</div>
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,git,github,vscode&perline=7" />
-
-</div>
-
----
-
-## 🧠 What I'm Working With
-
-```text
-Frontend        ████████████████████  React / TypeScript
-UI & Styling    ███████████████████░  Tailwind CSS
-JavaScript      ████████████████████  Modern JavaScript
-Backend         ███████████████░░░░░  Node.js / Express
-Database        █████████████░░░░░░░  MongoDB
-Tools           ████████████████████  Git / GitHub / VS Code
+```javascript
+const developer = {
+    name: "Ne'matulloh",
+    role: "Frontend Developer",
+    location: "Uzbekistan 🇺🇿",
+    code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "Tailwind CSS"],
+        tools: ["Git", "GitHub", "Vite", "VS Code"]
+    },
+    architecture: ["Clean UI/UX", "Responsive Web Design", "Component Driven"],
+    currentGoal: "Building high-performance & scalable web applications 🚀"
+};
