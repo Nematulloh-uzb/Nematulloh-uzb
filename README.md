@@ -119,21 +119,15 @@
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nematulloh-uzb&show_icons=true&theme=cyberpunk&hide_border=false&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&border_color=7000FF" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nematulloh-uzb&layout=compact&theme=cyberpunk&hide_border=false&bg_color=0D1117&title_color=00F2FE&text_color=FFFFFF&border_color=7000FF" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nematulloh-uzb&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF&border_color=7000FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nematulloh-uzb&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F2FE&text_color=FFFFFF&border_color=7000FF" width="48%" />
+</p>
 
 <br/>
 
 <!-- STREAK METRIC -->
-<img src="https://streak-stats.demolab.com?user=Nematulloh-uzb&theme=cyberpunk&hide_border=false&background=0D1117&border=7000FF&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Nematulloh-uzb&theme=tokyonight&hide_border=false&background=0D1117&border=7000FF&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="100%" />
 
 </div>
 
