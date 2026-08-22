@@ -32,12 +32,27 @@
 ---
 
 ### 📡 CYBERNETIC SYSTEM DIAGNOSTIC
+<!-- SYSTEM DIAGNOSTIC HUD CARD -->
+<div align="center">
 
-```text
-┌───[ SYSTEM_INFO ]──────────────────────────────────────────────┐
-│  OPERATOR   : Ne'matulloh Mansurov                             │
-│  CORE_ROLE  : Frontend Engineer & UI/UX Specialist             │
-│  LOCATION   : Namangan, Uzbekistan 🇺🇿                           │
-│  PRIMARY    : React.js | Next.js | TypeScript | Tailwind CSS  │
-│  OBJECTIVE  : Architecting Elite Scale Web Experiences         │
-└────────────────────────────────────────────────────────────────┘
+<table border="1" borderColor="#00F2FE" width="100%">
+  <tr>
+    <td bgcolor="#0D1117" align="left" style="padding: 15px;">
+      <p align="center"><b><font color="#00F2FE" size="4">📡 CYBERNETIC SYSTEM DIAGNOSTIC</font></b></p>
+      <hr color="#7000FF" size="1" />
+      <br/>
+      <img src="https://img.shields.io/badge/OPERATOR-Ne'matulloh_Mansurov-00F2FE?style=flat-square&logo=github&logoColor=000" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CORE_ROLE-Frontend_Engineer_%26_UI%2FUX_Specialist-7000FF?style=flat-square&logo=react&logoColor=fff" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LOCATION-Namangan%2C_Uzbekistan_🇺🇿-00F2FE?style=flat-square&logo=googlemaps&logoColor=000" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PRIMARY_STACK-React.js_%7C_Next.js_%7C_TypeScript_%7C_Tailwind-7000FF?style=flat-square&logo=typescript&logoColor=fff" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OBJECTIVE-Architecting_Elite_Scale_Web_Experiences-00F2FE?style=flat-square&logo=lightning&logoColor=000" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
