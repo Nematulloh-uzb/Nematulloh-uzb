@@ -29,6 +29,8 @@
 
 </div>
 
+---
+
 <!-- FOOTER CONNECT -->
 <div align="center">
 
