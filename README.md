@@ -1,36 +1,45 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Ne'matulloh%20Mansurov&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Next.js+Enthusiast+%E2%9A%A1;Building+Modern+%26+Responsive+UI%2FUX+%F0%9F%8E%A8;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- HERO SVG BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:0F172A,100:090D16&height=260&section=header&text=NE'MATULLOH%20MANSUROV&fontSize=42&fontColor=00F2FE&animation-[#00F2FE]&fontAlignY=35&desc=FRONTEND%20ENGINEER%20%7C%20UI%2FUX%20ARCHITECT&descSize=16&descAlignY=58&descColor=94A3B8" width="100%" />
 
 <br/>
 
-<!-- Profile Views Badge -->
+<!-- DYNAMIC TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=00F2FE&center=true&vCenter=true&width=750&lines=Crafting+Pixel-Perfect+Web+Experiences;React.js+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+Architect;Building+Scalable+Production-Ready+Apps" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- BADGES & VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS+%F0%9F%91%81%EF%B8%8F" alt="Views" />
+  <img src="https://img.shields.io/badge/Location-Namangan%2C%20Uzbekistan-10172A?style=for-the-badge&logo=googlemaps&logoColor=00F2FE" />
+  <img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&style=for-the-badge&color=00f2fe&label=SYSTEM+VIEWS" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00F2FE?style=for-the-badge&labelColor=10172A&textColor=10172A" />
 </p>
 
 </div>
 
+<br/>
+
 ---
 
-### 💫 About Me
+### ⚡ System Terminal Architecture
 
-```javascript
-const developer = {
-    name: "Ne'matulloh",
-    role: "Frontend Developer",
-    location: "Uzbekistan 🇺🇿",
-    code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "Tailwind CSS"],
-        tools: ["Git", "GitHub", "Vite", "VS Code"]
-    },
-    architecture: ["Clean UI/UX", "Responsive Web Design", "Component Driven"],
-    currentGoal: "Building high-performance & scalable web applications 🚀"
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  coreStack: string[];
+  philosophy: string;
+}
+
+const me: Developer = {
+  name: "Ne'matulloh Mansurov",
+  role: "Frontend Engineer",
+  location: "Namangan, Uzbekistan 🇺🇿",
+  coreStack: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+  philosophy: "Clean Code. Component-Driven Architecture. High Performance."
 };
