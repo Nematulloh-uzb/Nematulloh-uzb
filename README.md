@@ -8,7 +8,7 @@
 <!-- DYNAMIC 3D BADGES (PROFILE VIEWS INCLUDED) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&style=for-the-badge&color=00f2fe&label=VIEWS+%F0%9F%91%81%EF%B8%8F" />
-  <img src="https://img.shields.io/badge/ROLE-FRONTEND_DEV-7000ff?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEV-7000ff?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCATION-NAMANGAN_UZB-00f2fe?style=for-the-badge&logo=googlemaps&logoColor=black" />
 </p>
 
