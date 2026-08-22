@@ -1,22 +1,28 @@
+<!-- HEADER SCI-FI BANNER -->
 <div align="center">
 
-<!-- HERO SVG BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:0F172A,100:090D16&height=260&section=header&text=NE'MATULLOH%20MANSUROV&fontSize=42&fontColor=00F2FE&animation-[#00F2FE]&fontAlignY=35&desc=FRONTEND%20ENGINEER%20%7C%20UI%2FUX%20ARCHITECT&descSize=16&descAlignY=58&descColor=94A3B8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:00f2fe,100:7000ff&height=220&section=header&text=NE'MATULLOH%20MANSUROV&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=%5B%20FRONTEND%20SYSTEMS%20ARCHITECT%20%2F%20UI%2FUX%20ENGINEER%20%5D&descSize=14&descAlignY=62&descColor=00f2fe" width="100%" />
 
 <br/>
 
-<!-- DYNAMIC TYPING -->
+<!-- DYNAMIC HUD TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=00F2FE&center=true&vCenter=true&width=750&lines=Crafting+Pixel-Perfect+Web+Experiences;React.js+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+Architect;Building+Scalable+Production-Ready+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2000&pause=800&color=00F2FE&center=true&vCenter=true&width=750&lines=%3E_INITIALIZING_NEURAL_INTERFACE...;%3E_BUILDING_HIGH_PERFORMANCE_WEB_APPS;%3E_REACT_%7C_TYPESCRIPT_%7C_TAILWIND_CSS;%3E_EXECUTING_PIXEL_PERFECT_DESIGNS..." alt="HUD Typing" />
 </a>
 
 <br/><br/>
 
-<!-- BADGES & VIEWS -->
+<!-- HIGH-TECH SYSTEM COUNTER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Namangan%2C%20Uzbekistan-10172A?style=for-the-badge&logo=googlemaps&logoColor=00F2FE" />
-  <img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&style=for-the-badge&color=00f2fe&label=SYSTEM+VIEWS" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00F2FE?style=for-the-badge&labelColor=10172A&textColor=10172A" />
+  <a href="https://github.com/Nematulloh-uzb">
+    <img src="https://profile-counter.glitch.me/Nematulloh-uzb/badge.svg" alt="Cyber Counter" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NODE-UZB_NAMANGAN-00f2fe?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_7_DEV-7000ff?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE_FOR_PROJECTS-00ff66?style=for-the-badge&logo=statuspage&logoColor=black" />
 </p>
 
 </div>
@@ -25,21 +31,13 @@
 
 ---
 
-### ⚡ System Terminal Architecture
+### 📡 CYBERNETIC SYSTEM DIAGNOSTIC
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  coreStack: string[];
-  philosophy: string;
-}
-
-const me: Developer = {
-  name: "Ne'matulloh Mansurov",
-  role: "Frontend Engineer",
-  location: "Namangan, Uzbekistan 🇺🇿",
-  coreStack: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-  philosophy: "Clean Code. Component-Driven Architecture. High Performance."
-};
+```text
+┌───[ SYSTEM_INFO ]──────────────────────────────────────────────┐
+│  OPERATOR   : Ne'matulloh Mansurov                             │
+│  CORE_ROLE  : Frontend Engineer & UI/UX Specialist             │
+│  LOCATION   : Namangan, Uzbekistan 🇺🇿                           │
+│  PRIMARY    : React.js | Next.js | TypeScript | Tailwind CSS  │
+│  OBJECTIVE  : Architecting Elite Scale Web Experiences         │
+└────────────────────────────────────────────────────────────────┘
