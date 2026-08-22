@@ -5,9 +5,9 @@
 
 <br/>
 
-<!-- DYNAMIC 3D BADGES (PROFILE VIEWS INCLUDED) -->
+<!-- DYNAMIC 3D BADGES (REAL-TIME PROFILE VIEWS) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nematulloh-uzb&style=for-the-badge&color=00f2fe&label=VIEWS+%F0%9F%91%81%EF%B8%8F" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNematulloh-uzb&count_bg=%2300F2FE&title_bg=%230D1117&icon=github.svg&icon_color=%2300F2FE&title=VIEWS&edge_flat=false" />
   <img src="https://img.shields.io/badge/ROLE-FRONTEND_DEV-7000ff?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCATION-NAMANGAN_UZB-00f2fe?style=for-the-badge&logo=googlemaps&logoColor=black" />
 </p>
