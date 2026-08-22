@@ -22,14 +22,12 @@
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,git,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6" />
 </a>
 
 <br/><br/>
 
 </div>
-
----
 
 <!-- FOOTER CONNECT -->
 <div align="center">
