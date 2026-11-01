@@ -32,7 +32,7 @@
 <!-- FOOTER CONNECT -->
 <div align="center">
 
-<p align="center"><a href="https://github.com/Nematulloh-uzb" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE&border=00F2FE" /></a>&nbsp;<a href="https://t.me/Nematulloh710" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=00F2FE&border=00F2FE" /></a>&nbsp;<a href="https://www.instagram.com/mansurwv710" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00F2FE&border=00F2FE" /></a></p>
+<p align="center"><a href="https://github.com/Nematulloh-uzb" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE&border=00F2FE" /></a>&nbsp;<a href="https://t.me/Nematulloh710" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=00F2FE&border=00F2FE" /></a>&nbsp;<a href="https://www.instagram.com/mansurvv710" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00F2FE&border=00F2FE" /></a></p>
 
 <br/>
 
