@@ -21,7 +21,7 @@
 
 <br/>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mongodb,nodejs,vite,figma&perline=9" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mongodb,typescript,nodejs,vite,figma&perline=9" /></a>
 
 <br/><br/>
 
