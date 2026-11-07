@@ -9,7 +9,7 @@
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=Abdulbosit-uzb&style=for-the-badge&color=00f2fe&label=VIEWS+%F0%9F%91%81%EF%B8%8F" /> -->
   <img src="https://img.shields.io/badge/ROLE-FULL--STACK_DEVELOPER-7000ff?style=for-the-badge&logo=react&logoColor=white" />
-  <a href="https://www.google.com/maps?q=40.9723969,71.6826555" target="_blank"><img src="https://img.shields.io/badge/LOCATION-202--HOUSE_MARGILON_STREET%2C_NAMANGAN_CITY%2C_NAMANGAN_UZBEKISTAN-00f2fe?style=for-the-badge&logo=googlemaps&logoColor=black" /></a>
+  <a href="https://www.google.com/maps?q=40.9723969,71.6826555" target="_blank"><img src="https://img.shields.io/badge/LOCATION-202--HOUSE_MARGILON_STREET%2C_NAMANGAN_CITY%2C_NAMANGAN%2C_UZBEKISTAN-00f2fe?style=for-the-badge&logo=googlemaps&logoColor=black" /></a>
 </p>
 
 </div>
