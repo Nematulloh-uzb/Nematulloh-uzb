@@ -32,7 +32,6 @@
 <!-- FOOTER CONNECT -->
 <div align="center">
 
-<!--
 <p align="center">
   <a href="https://github.com/Nematulloh-uzb" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE&border=00F2FE" /></a>&nbsp;
   <a href="https://t.me/Nematulloh710" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=00F2FE&border=00F2FE" /></a>&nbsp;
@@ -42,6 +41,5 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7000ff,100:00f2fe&height=100&section=footer" width="100%" />
--->
 
 </div>
